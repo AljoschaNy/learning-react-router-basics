@@ -1,4 +1,4 @@
-import {Character} from "./characters.ts";
+import {Character} from "../data/characters.ts";
 import CharacterCard from "./CharacterCard.tsx";
 
 type CharacterGalleryProps = {
